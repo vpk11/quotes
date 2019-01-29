@@ -1,0 +1,399 @@
+<resources>
+    <string name="app_name">Quotes</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_here">Text Here</string>
+    <string name="next">Next</string>
+    <string name="previous">PREVIOUS</string>
+    <string name="about">About</string>
+    <string name="dev_by">DEVELOPED BY</string>
+    <string name="nextS"><![CDATA[—>]]></string>
+    <string name="ver">v3.0</string>
+    <string name="vpk">VISHNU PRASAD K</string>
+    <string name="v">v3.0</string>
+    <string name="share">Share</string>
+    <string name="send_to">SHARE N HAVE FUN</string>
+    <string name="fb">FACEBOOK</string>
+    <string-array name="quote">
+       <item>The best preparation for tomorrow is doing your best today.
+        -H. Jackson Brown, Jr.</item>
+        <item>The best and most beautiful things in the world cannot be seen or even touched - they must
+        be felt with the heart.
+        -Helen Keller</item>
+        <item>I can\'t change the direction of the wind, but I can adjust my sails to always reach my
+        destination.
+        -Jimmy Dean</item>
+        <item>Start by doing what\'s necessary; then do what\'s possible; and suddenly you are doing the
+        impossible.
+        -Francis of Assisi</item>
+        <item>Perfection is not attainable, but if we chase perfection we can catch excellence.
+        -Vince Lombardi</item>
+        <item>We must let go of the life we have planned, so as to accept the one that is waiting for us.
+        -Joseph Campbell</item>
+        <item>Try to be a rainbow in someone\'s cloud.
+        -Maya Angelou</item>
+        <item>Nothing is impossible, the word itself says \'I\'m possible\'!
+        -Audrey Hepburn</item>
+        <item>We know what we are, but know not what we may be.
+         -William Shakespeare</item>
+        <item>If opportunity doesn\'t knock, build a door.
+        -Milton Berle</item>
+        <item>Believe you can and you\'re halfway there.
+        -Theodore Roosevelt</item>
+        <item>My mission in life is not merely to survive, but to thrive; and to do so with some passion,
+        some compassion, some humor, and some style.
+        -Maya Angelou</item>
+        <item>Put your heart, mind, and soul into even your smallest acts. This is the secret of success.
+        -Swami Sivananda</item>
+        <item>Health is the greatest gift, contentment the greatest wealth,faithfulness the best
+        relationship.
+        -Buddha</item>
+        <item>As we express our gratitude, we must never forget that the highest appreciation is not to
+        utter words, but to live by them.
+        -John F. Kennedy</item>
+        <item>It is during our darkest moments that we must focus to see the light.
+        -Aristotle Onassis</item>
+        <item>You must do the things you think you cannot do.
+        -Eleanor Roosevelt</item>
+        <item>No act of kindness, no matter how small, is ever wasted.
+        -Aesop</item>
+        <item>No matter what people tell you, words and ideas can change the world.
+        -Robin Williams</item>
+        <item>Clouds come floating into my life, no longer to carry rain or usher storm, but to add color
+        to my sunset sky.
+        -Rabindranath Tagore</item>
+        <item>A hero is someone who has given his or her life to something bigger than oneself.
+        -Joseph Campbell</item>
+        <item>There are two ways of spreading light: to be the candle or the mirror that reflects it.
+        -Edith Wharton</item>
+        <item>I believe in living today. Not in yesterday, nor in tomorrow.
+        -Loretta Young</item>
+        <item>Good, better, best. Never let it rest. \'Til your good is better and your better is best.
+        -St. Jerome</item>
+        <item>Accept the challenges so that you can feel the exhilaration of victory.
+        -George S. Patton</item>
+        <item>Either you run the day or the day runs you.
+        -Jim Rohn</item>
+        <item>In order to succeed, we must first believe that we can.
+        -Nikos Kazantzakis</item>
+        <item>When you reach the end of your rope, tie a knot in it and hang on.
+        -Franklin D. Roosevelt</item>
+        <item>Life is 10% what happens to you and 90% how you react to it.
+        -Charles R. Swindoll</item>
+        <item>What you do today can improve all your tomorrows.
+        -Ralph Marston</item>
+        <item>Failure will never overtake me if my determination to succeed is strong enough.
+        -Og Mandino</item>
+        <item>A creative man is motivated by the desire to achieve, not by the desire to beat others.
+        -Ayn Rand</item>
+        <item>The secret of getting ahead is getting started.
+        -Mark Twain</item>
+        <item>You are never too old to set another goal or to dream a new dream.
+        -C. S. Lewis</item>
+        <item>Always do your best. What you plant now, you will harvest later.
+        -Og Mandino</item>
+        <item>Keep your eyes on the stars, and your feet on the ground.
+        -Theodore Roosevelt</item>
+        <item>It does not matter how slowly you go as long as you do not stop.
+        -Confucius</item>
+        <item>Infuse your life with action. I have not failed. I\’ve just found 10,000ways that won\’t work.
+        -Thomas A. Edison</item>
+        <item>Don\'t wait for it to happen. Make it happen. Make your own future. Make your own hope.
+        -Bradley Whitford</item>
+        <item>The will to win, the desire to succeed, the urge to reach your full potential… these are
+        the keys that will unlock the door to personal excellence.
+        -Confucius</item>
+        <item>Don\'t watch the clock; do what it does. Keep going.
+        -Sam Levenson</item>
+        <item>Our greatest weakness lies in giving up. The most certain way to succeed is always to try
+        just one more time.
+        -Thomas A. Edison</item>
+        <item>With the new day comes new strength and new thoughts.
+        -Eleanor Roosevelt</item>
+        <item>Start where you are. Use what you have. Do what you can.
+        -Arthur Ashe</item>
+        <item>Believe in yourself! Have faith in your abilities! Without a humble but reasonable
+        confidence in your own powers you cannot be successful or happy.
+        -Norman Vincent Peale</item>
+        <item>If you can dream it, you can do it.
+        -Walt Disney</item>
+        <item>Aim for the moon. If you miss, you may hit a star.
+        -W. Clement Stone</item>
+        <item>Go for it now. The future is promised to no one.
+        -Wayne Dyer</item>
+        <item>Problems are not stop signs, they are guidelines.
+        -Robert H. Schuller</item>
+        <item>Knowing is not enough; we must apply. Willing is not enough; we must do.
+        -Johann Wolfgang von Goethe</item>
+        <item>Work hard for what you want because it won\'t come to you without a fight.
+        -Leah LaBelle</item>
+        <item>Yesterday is not ours to recover, but tomorrow is ours to win or lose.
+        -Lyndon B. Johnson</item>
+        <item>Keep your face to the sunshine and you cannot see a shadow.
+        -Helen Keller</item>
+        <item>In order to carry a positive action we must develop here a positive vision.
+        -Dalai Lama</item>
+        <item>Find a place inside where there\'s joy, and the joy will burn out the pain.
+        -Joseph Campbell</item>
+        <item>Positive anything is better than negative nothing.
+        -Elbert Hubbard</item>
+        <item>Correction does much, but encouragement does more.
+        -Johann Wolfgang von Goethe</item>
+        <item>To succeed, you need to find something to hold on to, something to motivate you, something
+        to inspire you.
+        -Tony Dorsett</item>
+        <item>Believe that life is worth living and your belief will help create the fact.
+        -William James</item>
+        <item>Your smile will give you a positive countenance that will make people feel comfortable
+        around you.
+        -Les Brown</item>
+        <item>Once you replace negative thoughts with positive ones, you\'ll start having positive results.
+        -Willie Nelson</item>
+        <item>If you\'re not making mistakes, then you\'re not doing anything. I\'m positive that a doer
+        makes mistakes.
+        -John Wooden</item>
+        <item>Live life to the fullest, and focus on the positive.
+        -Matt Cameron</item>
+        <item>You cannot have a positive life and a negative mind.
+        -Joyce Meyer</item>
+        <item>Positive thinking will let you do everything better than negative thinking will.
+        -Zig Ziglar</item>
+        <item>Trust in dreams, for in them is hidden the gate to eternity.
+        -Khalil Gibran</item>
+        <item>There is only one happiness in this life, to love and be loved.
+        -George Sand</item>
+        <item>The best way to pay for a lovely moment is to enjoy it.
+        -Richard Bach</item>
+        <item>Happiness is when what you think, what you say, and what you do are in harmony.
+        -Mahatma Gandhi</item>
+        <item>Happiness is not something ready made. It comes from your own actions.
+        -Dalai Lama</item>
+        <item>Happiness is good health and a bad memory.
+        -Ingrid Bergman</item>
+        <item>Be happy for this moment. This moment is your life.
+        -Omar Khayyam</item>
+        <item>Remember that the happiest people are not those getting more, but those giving more.
+        -H. Jackson Brown, Jr.</item>
+        <item>Some cause happiness whereverthey go; others whenever they go.
+        -Oscar Wilde</item>
+        <item>Most folks are as happy as they make up their minds to be.
+        -Abraham Lincoln</item>
+        <item>Action may not always bring happiness; but there is no happiness without action.
+        -Benjamin Disraeli</item>
+        <item>Walking with a friend in the dark is better than walking alone in the light.
+        -Helen Keller</item>
+        <item>A real friend is one who walks in when the rest of the world walks out.
+        -Walter Winchell</item>
+        <item>Friends are the siblings God never gave us.
+        -Mencius</item>
+        <item>One loyal friend is worth ten thousand relatives.
+        -Euripides</item>
+        <item>Don\'t walk behind me; I may not lead. Don\'t walk in front of me; I may not follow. Just walk
+        beside me and be my friend.
+        -Albert Camus</item>
+        <item>My best friend is the one who brings out the best in me.
+        -Henry Ford</item>
+        <item>The only way to have a friend is to be one.
+        -Ralph Waldo Emerson</item>
+        <item>When we are no longer able to change a situation, we are challenged to change ourselves.
+        - Viktor E. Frankl</item>
+        <item>Always be yourself, express yourself, have faith in yourself, do not go out and look for a
+        successful personality and duplicate it.
+        - Bruce Lee</item>
+        <item>That which does not kill us makes us stronger.
+        - Friedrich Nietzsche</item>
+        <item>A single twig breaks, but the bundle of twigs is strong.
+        - Tecumseh</item>
+        <item>The first step toward change is awareness. The second step is acceptance.
+        - Nathaniel Branden</item>
+        <item>Mistakes are always forgivable, if one has the courage to admit them.
+        - Bruce Lee</item>
+        <item>Love is an irresistible desire to be irresistibly desired.
+        - Robert Frost</item>
+        <item>We are not makers of history. We are made by history.
+        - Martin Luther King Jr.</item>
+        <item>Subtlety may deceive you; integrity never will.
+        - Oliver Cromwell</item>
+        <item>Growth is the only evidence of life.
+        - John Henry Newman</item>
+        <item>Trust, but verify.
+        - Ronald Reagan</item>
+        <item>Shadows cannot see themselves in the mirror of the sun.
+        - Evita Peron</item>
+        <item>Even if you\’re on the right track, you\’ll get run over if you just sit there.
+        - Will Rogers</item>
+        <item>I like nonsense; it wakes up the brain cells.
+        - Dr. Seuss</item>
+        <item>I don\'t go around regretting things that don\’t happen.
+        - Virgil Thomson</item>
+        <item>Our patience will achieve more than our force.
+        - Edmund Bruke</item>
+        <item>Genius is more often found in a cracked pot than in a whole one.
+        - E.B. White</item>
+        <item>Only in love are unity and duality not in conflict.
+        - Rabindranath Tagore</item>
+        <item>I wear my heart on my sleeve.
+        - Princess Diana</item>
+        <item>Life laughs at you when you are unhappy. Life smiles at you when you are happy. But, life
+        salutes you when you make others happy.
+        - Charlie Chaplin</item>
+        <item>The sun is new each day.
+        - Heraclitus</item>
+        <item>There was never a night or a problem that could defeat sunrise or hope.
+        - Bernard Williams</item>
+        <item>Smile in the mirror. Do that every morning and you\’ll start to see a big difference in your
+        life.
+        - Yoko Ono</item>
+        <item>The best way to pay for a lovely moment is to enjoy it.
+        - Richard Bach</item>
+        <item>Beauty is a shot-lived tyranny.
+        - Socrates</item>
+        <item>Believe that life is worth living and your belief will help create the fact.
+        - William James</item>
+        <item>There are two ways of spreading light: to be the candle or the mirror that reflects it.
+        - Edith Wharton</item>
+        <item>You must do the things you think you cannot do.
+        - Eleanor Roosevelt</item>
+        <item>Life is about making your own happiness - and living by your own rules.
+        - Aimee Mullins</item>
+        <item>Always remember that you are absolutely unique. Just like everyone else.
+        - Margaret Mead</item>
+        <item>Do not take life too seriously. You will never get out of it alive.
+        - Elbert Hubbard</item>
+        <item>Too much agreement kills a chat.
+        - Eldridge Cleaver</item>
+        <item>The best way to predict the future is to create it.
+        - Peter Drucker</item>
+        <item>A problem is a chance for you to do your best.
+        - Duke Ellington</item>
+        <item>The best revenge is massive success.
+        - Frank Sinatra</item>
+        <item>Nobody who ever gave his best regretted it.
+        - George Halas</item>
+        <item>You can do anything, but not everything.
+        —David Allen</item>
+        <item>Perfection is achieved, not when there is nothing more to add, but when there is nothing left
+        to take away.
+        —Antoine de Saint-Exupéry</item>
+        <item>The richest man is not he who has the most, but he who needs the least.</item>
+        <item>You miss 100 percent of the shots you never take.</item>
+        <item>Courage is not the absence of fear, but rather the judgement that something else is more
+        important than fear.
+        —Ambrose Redmoon</item>
+        <item>You must be the change you wish to see in the world.
+        —Mahatma Gandhi</item>
+        <item>To the man who only has a hammer, everything he encounters begins to look like a nail.
+        —Abraham Maslow</item>
+        <item>We are what we repeatedly do; excellence, then, is not an act but a habit.
+        —Aristotle</item>
+        <item>A wise man gets more use from his enemies than a fool from his friends.
+        —Baltasar Gracian</item>
+        <item>Do not seek to follow in the footsteps of the men of old; seek what they sought.
+        —Basho</item>
+        <item>The real voyage of discovery consists not in seeking new lands but seeing with new eyes.
+        —Marcel Proust</item>
+        <item>Work like you don\’t need money, love like you\’ve never been hurt, and dance like no one\’s
+        watching</item>
+        <item>People often say that motivation doesn\’t last. Well, neither does bathing – that\’s why we
+        recommend it daily.
+        —Zig Ziglar</item>
+        <item>Always forgive your enemies; nothing annoys them so much.
+        —Oscar Wilde</item>
+        <item>I quit therapy because my analyst was trying to help me behind my back.
+        —Richard Lewis</item>
+        <item>If the lessons of history teach us anything it is that nobody learns the lessons that
+        history teaches us.
+        —Anon</item>
+        <item>Laughing at our mistakes can lengthen our own life. Laughing at someone else\’s can shorten
+        it.
+        —Cullen Hightower</item>
+        <item>The person who reads too much and uses his brain too little will fall into lazy habits of
+        thinking.
+        —Albert Einstein</item>
+        <item>Believe those who are seeking the truth. Doubt those who find it.
+        —André Gide</item>
+        <item>I\’d rather live with a good question than a bad answer.
+        —Aryeh Frimer</item>
+        <item>We learn something every day, and lots of times it\’s that what we learned the day before was
+        wrong.
+        —Bill Vaughan</item>
+        <item>Don\’t ever wrestle with a pig. You\’ll both get dirty, but the pig will enjoy it.
+        —Cale Yarborough</item>
+        <item>An inventor is simply a fellow who doesn\’t take his education too seriously.
+        —Charles F. Kettering</item>
+        <item>Better to write for yourself and have no public, than to write for the public and have no
+        self.
+        —Cyril Connolly</item>
+        <item>Never be afraid to laugh at yourself, after all, you could be missing out on the joke of the
+        century.
+        —Dame Edna Everage</item>
+        <item>I am patient with stupidity but not with those who are proud of it.
+        —Edith Sitwell</item>
+        <item>The cure for boredom is curiosity. There is no cure for curiosity.
+        —Ellen Parr</item>
+        <item>When a person can no longer laugh at himself, it is time for others to laugh at him.
+        —Thomas Szasz</item>
+        <item>If you don\’t build your dream, someone else will hire you to help them build theirs.
+        -Dhirubhai Ambani</item>
+        <item>Great minds discuss ideas; average minds discuss events; small minds discuss people.
+        -Eleanor Roosevelt</item>
+        <item>If you don\’t value your time, neither will others. Stop giving away your time and talents.
+        Value what you know and start charging for it.
+        -Kim Garst</item>
+        <item>A successful man is one who can lay a firm foundation with the bricks others have thrown at
+        him.
+        -David Brinkley</item>
+        <item>No one can make you feel inferior without your consent.
+        -Eleanor Roosevelt</item>
+        <item>Live as if you were to die tomorrow. Learn as if you were to live forever.
+        -Mahatma Gandhi</item>
+        <item>Twenty years from now you will be more disappointed by the things that you didn\’t do than by
+        the ones you did do.
+        -Mark Twain</item>
+        <item>Success is about creating benefit for all and enjoying the process. If you focus on this and
+        adopt this definition, success is yours.
+        -Kelly Kim</item>
+        <item>You have to learn the rules of the game. And then you have to play better than anyone else.
+        -Albert Einstein</item>
+        <item>The successful warrior is the average man, with lasers like focus.
+        -Bruce Lee</item>
+        <item>Take up one idea. Make that one idea your life – think of it, dream of it, live on that
+        idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and
+        just leave every other idea alone. This is the way to success.
+        -Swami Vivekananda</item>
+        <item>Develop success from failures. Discouragement and failure are two of the surest stepping
+        stones to success.
+        -Dale Carnegie</item>
+        <item>If you don\’t design your own life plan, chances are you\’ll fall into someone else\’s plan.
+        And guess what they have planned for you? Not much.
+        -Jim Rohn</item>
+        <item>The question isn\’t who is going to letme; it\’s who is going to stop me.
+        -Ayn Rand</item>
+        <item>If you genuinely want something, don\’t wait for it – teach yourself to be impatient.
+        -Gurbaksh Chahal</item>
+        <item>Don\’t let the fear of losing be greater than the excitement of winning.
+        -Robert Kiyosaki</item>
+        <item>If you want to make a permanent change, stop focusing on the size of your problems and start
+        focusing on the size of you!
+        -T. Harv Eker</item>
+        <item>Be a Warrior not a Worrier</item>
+        <item>Be not afraid of going slowly, be afraid only of standing still.</item>
+        <item>Learn from yesterday, live for today, hope for tomorrow.</item>
+        <item>Happiness will never come to those who fail to appreciate what they already have.</item>
+        <item>Without His love I can do nothing, with His love there is nothing I cannot do.</item>
+        <item>Here is only one happiness in life — to love and to be loved.
+        -George Sand</item>
+        <item>Life is not a problem to be solved, but a reality to be experienced.
+        -Soren Kierkegaard</item>
+        <item>In three words I can sum up everything I\'ve learned about life. It goes on.
+        -Robert Frost</item>
+        <item>And in the end, it\'s not the years in your life that count. It\'s the life in your years.
+        -Abraham Lincoln</item>
+        <item>Where there is love there is life.
+        -Mahatma Gandhi</item>
+        <item>Life can only be understood backwards, but it must be lived forward.
+        -Soren Kierkegaard</item>
+        <item>Teachers open the door but you must walk through it yourself.</item>
+        <item>Chose a job you love, and you will never have to work a day in your life.
+        -Confucius</item>
+    </string-array>
+</resources>
