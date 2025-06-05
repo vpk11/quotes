@@ -1,6 +1,7 @@
 # QUOTES - Android App
 
 A simple Android application that displays inspirational quotes. Users can view quotes and copy them to the clipboard.
+[Click here](https://github.com/vpk11/quotes/releases/tag/3.0) to install latest release
 
 ## Table of Contents
 
