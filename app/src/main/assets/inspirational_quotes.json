@@ -1,0 +1,750 @@
+[
+  {
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Strive not to be a success, but rather to be of value.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "The mind is everything. What you think you become.",
+    "author": "Buddha"
+  },
+  {
+    "text": "Your time is limited, so don’t waste it living someone else’s life.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker"
+  },
+  {
+    "text": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon"
+  },
+  {
+    "text": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama"
+  },
+  {
+    "text": "Get busy living or get busy dying.",
+    "author": "Stephen King"
+  },
+  {
+    "text": "You only live once, but if you do it right, once is enough.",
+    "author": "Mae West"
+  },
+  {
+    "text": "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+    "author": "Thomas A. Edison"
+  },
+  {
+    "text": "The best preparation for tomorrow is doing your best today.",
+    "author": "H. Jackson Brown, Jr."
+  },
+  {
+    "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "I can't change the direction of the wind, but I can adjust my sails to always reach my destination.",
+    "author": "Jimmy Dean"
+  },
+  {
+    "text": "Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible.",
+    "author": "Francis of Assisi"
+  },
+  {
+    "text": "Perfection is not attainable, but if we chase perfection we can catch excellence.",
+    "author": "Vince Lombardi"
+  },
+  {
+    "text": "We must let go of the life we have planned, so as to accept the one that is waiting for us.",
+    "author": "Joseph Campbell"
+  },
+  {
+    "text": "Try to be a rainbow in someone's cloud.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Nothing is impossible, the word itself says 'I'm possible'!",
+    "author": "Audrey Hepburn"
+  },
+  {
+    "text": "We know what we are, but know not what we may be.",
+    "author": "William Shakespeare"
+  },
+  {
+    "text": "If opportunity doesn't knock, build a door.",
+    "author": "Milton Berle"
+  },
+  {
+    "text": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "text": "My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Put your heart, mind, and soul into even your smallest acts. This is the secret of success.",
+    "author": "Swami Sivananda"
+  },
+  {
+    "text": "Health is the greatest gift, contentment the greatest wealth,faithfulness the best relationship.",
+    "author": "Buddha"
+  },
+  {
+    "text": "As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.",
+    "author": "John F. Kennedy"
+  },
+  {
+    "text": "It is during our darkest moments that we must focus to see the light.",
+    "author": "Aristotle Onassis"
+  },
+  {
+    "text": "You must do the things you think you cannot do.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "text": "No act of kindness, no matter how small, is ever wasted.",
+    "author": "Aesop"
+  },
+  {
+    "text": "No matter what people tell you, words and ideas can change the world.",
+    "author": "Robin Williams"
+  },
+  {
+    "text": "Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.",
+    "author": "Rabindranath Tagore"
+  },
+  {
+    "text": "A hero is someone who has given his or her life to something bigger than oneself.",
+    "author": "Joseph Campbell"
+  },
+  {
+    "text": "There are two ways of spreading light: to be the candle or the mirror that reflects it.",
+    "author": "Edith Wharton"
+  },
+  {
+    "text": "I believe in living today. Not in yesterday, nor in tomorrow.",
+    "author": "Loretta Young"
+  },
+  {
+    "text": "Good, better, best. Never let it rest. 'Til your good is better and your better is best.",
+    "author": "St. Jerome"
+  },
+  {
+    "text": "Accept the challenges so that you can feel the exhilaration of victory.",
+    "author": "George S. Patton"
+  },
+  {
+    "text": "Either you run the day or the day runs you.",
+    "author": "Jim Rohn"
+  },
+  {
+    "text": "In order to succeed, we must first believe that we can.",
+    "author": "Nikos Kazantzakis"
+  },
+  {
+    "text": "When you reach the end of your rope, tie a knot in it and hang on.",
+    "author": "Franklin D. Roosevelt"
+  },
+  {
+    "text": "Life is 10% what happens to you and 90% how you react to it.",
+    "author": "Charles R. Swindoll"
+  },
+  {
+    "text": "What you do today can improve all your tomorrows.",
+    "author": "Ralph Marston"
+  },
+  {
+    "text": "Failure will never overtake me if my determination to succeed is strong enough.",
+    "author": "Og Mandino"
+  },
+  {
+    "text": "A creative man is motivated by the desire to achieve, not by the desire to beat others.",
+    "author": "Ayn Rand"
+  },
+  {
+    "text": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "You are never too old to set another goal or to dream a new dream.",
+    "author": "C. S. Lewis"
+  },
+  {
+    "text": "Always do your best. What you plant now, you will harvest later.",
+    "author": "Og Mandino"
+  },
+  {
+    "text": "Keep your eyes on the stars, and your feet on the ground.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "text": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius"
+  },
+  {
+    "text": "Infuse your life with action. I have not failed. I’ve just found 10,000 ways that won’t work.",
+    "author": "Thomas A. Edison"
+  },
+  {
+    "text": "Don't wait for it to happen. Make it happen. Make your own future. Make your own hope.",
+    "author": "Bradley Whitford"
+  },
+  {
+    "text": "The will to win, the desire to succeed, the urge to reach your full potential… these are the keys that will unlock the door to personal excellence.",
+    "author": "Confucius"
+  },
+  {
+    "text": "Don't watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson"
+  },
+  {
+    "text": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
+    "author": "Thomas A. Edison"
+  },
+  {
+    "text": "With the new day comes new strength and new thoughts.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "text": "Start where you are. Use what you have. Do what you can.",
+    "author": "Arthur Ashe"
+  },
+  {
+    "text": "Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.",
+    "author": "Norman Vincent Peale"
+  },
+  {
+    "text": "If you can dream it, you can do it.",
+    "author": "Walt Disney"
+  },
+  {
+    "text": "Aim for the moon. If you miss, you may hit a star.",
+    "author": "W. Clement Stone"
+  },
+  {
+    "text": "Go for it now. The future is promised to no one.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "Problems are not stop signs, they are guidelines.",
+    "author": "Robert H. Schuller"
+  },
+  {
+    "text": "Knowing is not enough; we must apply. Willing is not enough; we must do.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "Work hard for what you want because it won't come to you without a fight.",
+    "author": "Leah LaBelle"
+  },
+  {
+    "text": "Yesterday is not ours to recover, but tomorrow is ours to win or lose.",
+    "author": "Lyndon B. Johnson"
+  },
+  {
+    "text": "Keep your face to the sunshine and you cannot see a shadow.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "In order to carry a positive action we must develop here a positive vision.",
+    "author": "Dalai Lama"
+  },
+  {
+    "text": "Find a place inside where there's joy, and the joy will burn out the pain.",
+    "author": "Joseph Campbell"
+  },
+  {
+    "text": "Positive anything is better than negative nothing.",
+    "author": "Elbert Hubbard"
+  },
+  {
+    "text": "Correction does much, but encouragement does more.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "To succeed, you need to find something to hold on to, something to motivate you, something to inspire you.",
+    "author": "Tony Dorsett"
+  },
+  {
+    "text": "Believe that life is worth living and your belief will help create the fact.",
+    "author": "William James"
+  },
+  {
+    "text": "Your smile will give you a positive countenance that will make people feel comfortable around you.",
+    "author": "Les Brown"
+  },
+  {
+    "text": "Once you replace negative thoughts with positive ones, you'll start having positive results.",
+    "author": "Willie Nelson"
+  },
+  {
+    "text": "If you're not making mistakes, then you're not doing anything. I'm positive that a doer makes mistakes.",
+    "author": "John Wooden"
+  },
+  {
+    "text": "Live life to the fullest, and focus on the positive.",
+    "author": "Matt Cameron"
+  },
+  {
+    "text": "You cannot have a positive life and a negative mind.",
+    "author": "Joyce Meyer"
+  },
+  {
+    "text": "Positive thinking will let you do everything better than negative thinking will.",
+    "author": "Zig Ziglar"
+  },
+  {
+    "text": "Trust in dreams, for in them is hidden the gate to eternity.",
+    "author": "Khalil Gibran"
+  },
+  {
+    "text": "There is only one happiness in this life, to love and be loved.",
+    "author": "George Sand"
+  },
+  {
+    "text": "The best way to pay for a lovely moment is to enjoy it.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "Happiness is when what you think, what you say, and what you do are in harmony.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "text": "Happiness is not something ready made. It comes from your own actions.",
+    "author": "Dalai Lama"
+  },
+  {
+    "text": "Happiness is good health and a bad memory.",
+    "author": "Ingrid Bergman"
+  },
+  {
+    "text": "Be happy for this moment. This moment is your life.",
+    "author": "Omar Khayyam"
+  },
+  {
+    "text": "Remember that the happiest people are not those getting more, but those giving more.",
+    "author": "H. Jackson Brown, Jr."
+  },
+  {
+    "text": "Some cause happiness whereverthey go; others whenever they go.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "text": "Most folks are as happy as they make up their minds to be.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "text": "Action may not always bring happiness; but there is no happiness without action.",
+    "author": "Benjamin Disraeli"
+  },
+  {
+    "text": "Walking with a friend in the dark is better than walking alone in the light.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "A real friend is one who walks in when the rest of the world walks out.",
+    "author": "Walter Winchell"
+  },
+  {
+    "text": "Friends are the siblings God never gave us.",
+    "author": "Mencius"
+  },
+  {
+    "text": "One loyal friend is worth ten thousand relatives.",
+    "author": "Euripides"
+  },
+  {
+    "text": "Don't walk behind me; I may not lead. Don't walk in front of me; I may not follow. Just walk beside me and be my friend.",
+    "author": "Albert Camus"
+  },
+  {
+    "text": "My best friend is the one who brings out the best in me.",
+    "author": "Henry Ford"
+  },
+  {
+    "text": "The only way to have a friend is to be one.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "When we are no longer able to change a situation, we are challenged to change ourselves.",
+    "author": "Viktor E. Frankl"
+  },
+  {
+    "text": "Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.",
+    "author": "Bruce Lee"
+  },
+  {
+    "text": "That which does not kill us makes us stronger.",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "text": "A single twig breaks, but the bundle of twigs is strong.",
+    "author": "Tecumseh"
+  },
+  {
+    "text": "The first step toward change is awareness. The second step is acceptance.",
+    "author": "Nathaniel Branden"
+  },
+  {
+    "text": "Mistakes are always forgivable, if one has the courage to admit them.",
+    "author": "Bruce Lee"
+  },
+  {
+    "text": "Love is an irresistible desire to be irresistibly desired.",
+    "author": "Robert Frost"
+  },
+  {
+    "text": "We are not makers of history. We are made by history.",
+    "author": "Martin Luther King Jr."
+  },
+  {
+    "text": "Subtlety may deceive you; integrity never will.",
+    "author": "Oliver Cromwell"
+  },
+  {
+    "text": "Growth is the only evidence of life.",
+    "author": "John Henry Newman"
+  },
+  {
+    "text": "Trust, but verify.",
+    "author": "Ronald Reagan"
+  },
+  {
+    "text": "Shadows cannot see themselves in the mirror of the sun.",
+    "author": "Evita Peron"
+  },
+  {
+    "text": "Even if you’re on the right track, you’ll get run over if you just sit there.",
+    "author": "Will Rogers"
+  },
+  {
+    "text": "I like nonsense; it wakes up the brain cells.",
+    "author": "Dr. Seuss"
+  },
+  {
+    "text": "I don't go around regretting things that don’t happen.",
+    "author": "Virgil Thomson"
+  },
+  {
+    "text": "Our patience will achieve more than our force.",
+    "author": "Edmund Bruke"
+  },
+  {
+    "text": "Genius is more often found in a cracked pot than in a whole one.",
+    "author": "E.B. White"
+  },
+  {
+    "text": "Only in love are unity and duality not in conflict.",
+    "author": "Rabindranath Tagore"
+  },
+  {
+    "text": "I wear my heart on my sleeve.",
+    "author": "Princess Diana"
+  },
+  {
+    "text": "Life laughs at you when you are unhappy. Life smiles at you when you are happy. But, life salutes you when you make others happy.",
+    "author": "Charlie Chaplin"
+  },
+  {
+    "text": "The sun is new each day.",
+    "author": "Heraclitus"
+  },
+  {
+    "text": "There was never a night or a problem that could defeat sunrise or hope.",
+    "author": "Bernard Williams"
+  },
+  {
+    "text": "Smile in the mirror. Do that every morning and you’ll start to see a big difference in your life.",
+    "author": "Yoko Ono"
+  },
+  {
+    "text": "The best way to pay for a lovely moment is to enjoy it.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "Beauty is a shot-lived tyranny.",
+    "author": "Socrates"
+  },
+  {
+    "text": "Believe that life is worth living and your belief will help create the fact.",
+    "author": "William James"
+  },
+  {
+    "text": "There are two ways of spreading light: to be the candle or the mirror that reflects it.",
+    "author": "Edith Wharton"
+  },
+  {
+    "text": "You must do the things you think you cannot do.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "text": "Life is about making your own happiness - and living by your own rules.",
+    "author": "Aimee Mullins"
+  },
+  {
+    "text": "Always remember that you are absolutely unique. Just like everyone else.",
+    "author": "Margaret Mead"
+  },
+  {
+    "text": "Do not take life too seriously. You will never get out of it alive.",
+    "author": "Elbert Hubbard"
+  },
+  {
+    "text": "Too much agreement kills a chat.",
+    "author": "Eldridge Cleaver"
+  },
+  {
+    "text": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker"
+  },
+  {
+    "text": "A problem is a chance for you to do your best.",
+    "author": "Duke Ellington"
+  },
+  {
+    "text": "The best revenge is massive success.",
+    "author": "Frank Sinatra"
+  },
+  {
+    "text": "Nobody who ever gave his best regretted it.",
+    "author": "George Halas"
+  },
+  {
+    "text": "You can do anything, but not everything.",
+    "author": "David Allen"
+  },
+  {
+    "text": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
+    "author": "Antoine de Saint-Exupéry"
+  },
+  {
+    "text": "The richest man is not he who has the most, but he who needs the least.",
+    "author": "Unknown Author"
+  },
+  {
+    "text": "You miss 100 percent of the shots you never take.",
+    "author": "Unknown Author"
+  },
+  {
+    "text": "Courage is not the absence of fear, but rather the judgement that something else is more important than fear.",
+    "author": "Ambrose Redmoon"
+  },
+  {
+    "text": "You must be the change you wish to see in the world.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "text": "To the man who only has a hammer, everything he encounters begins to look like a nail.",
+    "author": "Abraham Maslow"
+  },
+  {
+    "text": "We are what we repeatedly do; excellence, then, is not an act but a habit.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "A wise man gets more use from his enemies than a fool from his friends.",
+    "author": "Baltasar Gracian"
+  },
+  {
+    "text": "Do not seek to follow in the footsteps of the men of old; seek what they sought.",
+    "author": "Basho"
+  },
+  {
+    "text": "The real voyage of discovery consists not in seeking new lands but seeing with new eyes.",
+    "author": "Marcel Proust"
+  },
+  {
+    "text": "Work like you don’t need money, love like you’ve never been hurt, and dance like no one’s watching",
+    "author": "Unknown Author"
+  },
+  {
+    "text": "People often say that motivation doesn’t last. Well, neither does bathing – that’s why we recommend it daily.",
+    "author": "Zig Ziglar"
+  },
+  {
+    "text": "Always forgive your enemies; nothing annoys them so much.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "text": "I quit therapy because my analyst was trying to help me behind my back.",
+    "author": "Richard Lewis"
+  },
+  {
+    "text": "If the lessons of history teach us anything it is that nobody learns the lessons that history teaches us.",
+    "author": "Anon"
+  },
+  {
+    "text": "Laughing at our mistakes can lengthen our own life. Laughing at someone else’s can shorten it.",
+    "author": "Cullen Hightower"
+  },
+  {
+    "text": "The person who reads too much and uses his brain too little will fall into lazy habits of thinking.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Believe those who are seeking the truth. Doubt those who find it.",
+    "author": "André Gide"
+  },
+  {
+    "text": "I’d rather live with a good question than a bad answer.",
+    "author": "Aryeh Frimer"
+  },
+  {
+    "text": "We learn something every day, and lots of times it’s that what we learned the day before was wrong.",
+    "author": "Bill Vaughan"
+  },
+  {
+    "text": "Don’t ever wrestle with a pig. You’ll both get dirty, but the pig will enjoy it.",
+    "author": "Cale Yarborough"
+  },
+  {
+    "text": "An inventor is simply a fellow who doesn’t take his education too seriously.",
+    "author": "Charles F. Kettering"
+  },
+  {
+    "text": "Better to write for yourself and have no public, than to write for the public and have no self.",
+    "author": "Cyril Connolly"
+  },
+  {
+    "text": "Never be afraid to laugh at yourself, after all, you could be missing out on the joke of the century.",
+    "author": "Dame Edna Everage"
+  },
+  {
+    "text": "I am patient with stupidity but not with those who are proud of it.",
+    "author": "Edith Sitwell"
+  },
+  {
+    "text": "The cure for boredom is curiosity. There is no cure for curiosity.",
+    "author": "Ellen Parr"
+  },
+  {
+    "text": "When a person can no longer laugh at himself, it is time for others to laugh at him.",
+    "author": "Thomas Szasz"
+  },
+  {
+    "text": "If you don’t build your dream, someone else will hire you to help them build theirs.",
+    "author": "Dhirubhai Ambani"
+  },
+  {
+    "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "text": "If you don’t value your time, neither will others. Stop giving away your time and talents. Value what you know and start charging for it.",
+    "author": "Kim Garst"
+  },
+  {
+    "text": "A successful man is one who can lay a firm foundation with the bricks others have thrown at him.",
+    "author": "David Brinkley"
+  },
+  {
+    "text": "No one can make you feel inferior without your consent.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "text": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "text": "Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do.",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "Success is about creating benefit for all and enjoying the process. If you focus on this and adopt this definition, success is yours.",
+    "author": "Kelly Kim"
+  },
+  {
+    "text": "You have to learn the rules of the game. And then you have to play better than anyone else.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "The successful warrior is the average man, with lasers like focus.",
+    "author": "Bruce Lee"
+  },
+  {
+    "text": "Take up one idea. Make that one idea your life – think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.",
+    "author": "Dale Carnegie"
+  },
+  {
+    "text": "If you don’t design your own life plan, chances are you’ll fall into someone else’s plan. And guess what they have planned for you? Not much.",
+    "author": "Jim Rohn"
+  },
+  {
+    "text": "The question isn’t who is going to letme; it’s who is going to stop me.",
+    "author": "Ayn Rand"
+  },
+  {
+    "text": "If you genuinely want something, don’t wait for it – teach yourself to be impatient.",
+    "author": "Gurbaksh Chahal"
+  },
+  {
+    "text": "Don’t let the fear of losing be greater than the excitement of winning.",
+    "author": "Robert Kiyosaki"
+  },
+  {
+    "text": "If you want to make a permanent change, stop focusing on the size of your problems and start focusing on the size of you!",
+    "author": "T. Harv Eker"
+  },
+  {
+    "text": "Be a Warrior not a Worrier",
+    "author": "Unknown Author"
+  },
+  {
+    "text": "Be not afraid of going slowly, be afraid only of standing still.",
+    "author": "Unknown Author"
+  },
+  {
+    "text": "Learn from yesterday, live for today, hope for tomorrow.",
+    "author": "Unknown Author"
+  },
+  {
+    "text": "Happiness will never come to those who fail to appreciate what they already have.",
+    "author": "Unknown Author"
+  },
+  {
+    "text": "Without His love I can do nothing, with His love there is nothing I cannot do.",
+    "author": "Unknown Author"
+  },
+  {
+    "text": "Here is only one happiness in life — to love and to be loved.",
+    "author": "George Sand"
+  },
+  {
+    "text": "Life is not a problem to be solved, but a reality to be experienced.",
+    "author": "Soren Kierkegaard"
+  },
+  {
+    "text": "In three words I can sum up everything I've learned about life. It goes on.",
+    "author": "Robert Frost"
+  },
+  {
+    "text": "And in the end, it's not the years in your life that count. It's the life in your years.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "text": "Where there is love there is life.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "text": "Life can only be understood backwards, but it must be lived forward.",
+    "author": "Soren Kierkegaard"
+  },
+  {
+    "text": "Teachers open the door but you must walk through it yourself.",
+    "author": "Unknown Author"
+  },
+  {
+    "text": "Chose a job you love, and you will never have to work a day in your life.",
+    "author": "Confucius"
+  }
+]
