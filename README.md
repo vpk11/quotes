@@ -1,4 +1,4 @@
-# QUOTES - Android App
+# QUOTES - Android App 🤖
 
 A simple Android application that displays inspirational quotes. Users can view quotes and copy them to the clipboard.\
 \
